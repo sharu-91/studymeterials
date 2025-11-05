@@ -19,3 +19,21 @@ Here are some free websites where you can practice Selenium TestNG without regis
 - [Omayo Blog for Online Testing](http://omayo.blogspot.com/)
 
 These sites offer a variety of web elements and scenarios for testing, making them ideal for improving your automation skills. Please use these resources responsibly.
+
+---
+
+## Additional Learning Resources
+
+**Step 1:** [FASTEST Way to Learn Coding and ACTUALLY Get a Job (YouTube)](https://www.youtube.com/watch?v=79pKwdiqcwI)
+
+**Step 2:** [LearnPython.org](https://learnpython.org/) — FASTEST Way to Learn Coding and ACTUALLY Get a Job
+
+**Step 3:** [12 Beginner Python Projects - Coding Course (YouTube)](https://www.youtube.com/watch?v=8ext9G7xspg)
+
+**Step 5:** [Leetcode](https://leetcode.com/)
+
+---
+
+## MySQL Shell Commands
+
+- [MySQL Shell Commands Tutorial (YouTube)](https://www.youtube.com/watch?v=4lBDiKIpeh4)
