@@ -46,7 +46,29 @@ Push at the end of every meaningful piece of work — end of day, after completi
 
 ---
 
-## 4. Going Back to a Previous Commit
+## 4. First Push of a New Branch
+
+If `git push` fails with:
+
+```
+fatal: The current branch features/weekly-savings has no upstream branch.
+To push the current branch and set the remote as upstream, use
+    git push --set-upstream origin features/weekly-savings
+```
+
+**Q: What does "no upstream branch" mean?**
+
+It means your local branch doesn't have a corresponding branch on GitHub (remote) yet, so Git doesn't know where to push it. Fix it with:
+
+```bash
+git push --set-upstream origin features/weekly-savings
+```
+
+After this first push, future `git push` commands on this branch will work automatically.
+
+---
+
+## 5. Going Back to a Previous Commit
 
 **Q: What is the command to go back to my commit and start working from there?**
 
